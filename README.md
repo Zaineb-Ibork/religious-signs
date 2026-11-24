@@ -8,6 +8,16 @@
 
 </div>
 
+## Live site · الموقع · Site en ligne
+
+- **Presentation page:** https://zaineb-ibork.github.io/religious-signs/
+- **العربية:** https://zaineb-ibork.github.io/religious-signs/ar.html
+- **English:** https://zaineb-ibork.github.io/religious-signs/en.html
+- **Français:** https://zaineb-ibork.github.io/religious-signs/fr.html
+
+A single term has its own address, for example Prayer:
+https://zaineb-ibork.github.io/religious-signs/ar.html?w=02010
+
 ## Pages
 
 | File | What it is |
