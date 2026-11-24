@@ -16,12 +16,6 @@
 | `ar.html`, `en.html`, `fr.html` | The list of terms in each language, with search and category filter |
 | `ar.html?w=02010` | One term on its own (here: Prayer). Use this form of address for a QR code; it works on all three pages |
 
-## Publishing on GitHub Pages
-
-1. Upload the contents of this folder to a GitHub repository.
-2. In **Settings → Pages**, choose the `main` branch and the `/ (root)` folder, then save.
-3. After about a minute the site is live at `https://<username>.github.io/<repository>/`.
-
 ## Files
 
 ```
