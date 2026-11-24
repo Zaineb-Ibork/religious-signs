@@ -50,7 +50,7 @@ This work is based on the Arabic Sign Dictionary for the Deaf (القاموس ا
 
 ## About this version
 
-- This is an experimental version. The avatar's movement is extracted automatically from the original videos.
+- This is an experimental version. The avatar's movement is extracted from the original videos.
 - Finger shapes are approximate in some signs. The original sign video remains the reference, and each term links to it.
 - It has not yet been reviewed by Deaf signers or sign language interpreters.
 - The signs are those of the Arabic Sign Dictionary for the Deaf; sign languages differ from country to country.
